@@ -1,6 +1,8 @@
 h1 {
   color: blue;
   float: left;
+  text-decoration: underline;
+  text-align: center;
 }
 
 .line2 {

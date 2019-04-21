@@ -3,16 +3,21 @@ h1 {
   float: left;
 }
 
+.line2 {
+  color: blue;
+  float: left;
+  text-align: center;
+}
+
 nav ul li {
   display: inline;
   float: right;
   font-size: 1.4em;
   color: blue;
-  margin-left: 40px;
 }
 
 body {
-  background: #222;
+  background: #FFE4B5;
 }
 
 header::after {
@@ -31,6 +36,6 @@ header {
   margin: 0 auto
 }
 
-p {
+/* p {
   color: #FFD700;
-}
+} */

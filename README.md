@@ -15,4 +15,6 @@ The website
 ## Technologies Used
 {i incorporated the use of html and css to make this website. these 2 websites worked hand in hand to be able to both beautify and also make the overall look of the website as it is now. I used Atom as my text editor but it doesnt matter what editor you use for all of them are able to open both languages with ease.}
 This is a link to repository in which the work is located 
+##License
+Band License copyright(C)2019 Allan kamau
   
